@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/langchain-chains" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/langchain-document-loaders" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/langchain-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/langchain-output-parsers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/langchain-prompts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/langchain-runnables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/langchain-structured-output" vcs="Git" />
+  </component>
+</project>
